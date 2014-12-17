@@ -1,0 +1,243 @@
+{
+    "name": "Fyrkat Bluetooth",
+    "attributes": {
+        "mind": {
+            "intelect": 1,
+            "perception": 3,
+            "tenacity": 2
+        },
+        "body": {
+            "strength": 1,
+            "vigour": 2,
+            "agility": 4
+        },
+        "soul": {
+            "charisma": 1,
+            "instinct": 4,
+            "communication": 1
+        }
+    },
+    "gifts": {
+        "agile": {
+            "lastused": "20141217"
+        },
+        "discrete": {
+            "lastused": "20141217"
+        }
+    },
+    "weaknesses": {
+        "curiuos": {
+            "lastused": "20141217"
+        }
+    },
+    "skills": {
+        "Acrobatics": {
+            "level": 1,
+            "preferred": false
+        },
+        "Eloquence": {
+            "level": 1,
+            "preferred": false
+        },
+        "Search": {
+            "level": 1,
+            "preferred": false
+        },
+        "Hand to Hand": {
+            "level": 1,
+            "preferred": false
+        },
+        "Art": {
+            "level": 1,
+            "preferred": false
+        },
+        "Empathy": {
+            "level": 1,
+            "preferred": false
+        },
+        "Seduction": {
+            "level": 1,
+            "preferred": false
+        },
+        "Improvised": {
+            "level": 1,
+            "preferred": false
+        },
+        "Atheltics": {
+            "level": 1,
+            "preferred": false
+        },
+        "Herbalism": {
+            "level": 1,
+            "preferred": false
+        },
+        "Stealth": {
+            "level": 1,
+            "preferred": false
+        },
+        "Long Weapons": {
+            "level": 1,
+            "preferred": false
+        },
+        "Climbing": {
+            "level": 1,
+            "preferred": false
+        },
+        "Intinidation": {
+            "level": 1,
+            "preferred": false
+        },
+        "Survival": {
+            "level": 1,
+            "preferred": false
+        },
+        "Pole Arms": {
+            "level": 1,
+            "preferred": false
+        },
+        "Commerce": {
+            "level": 1,
+            "preferred": false
+        },
+        "Knowledge (Spec)": {
+            "level": 1,
+            "preferred": false
+        },
+        "Tactics": {
+            "level": 1,
+            "preferred": false
+        },
+        "Ranged Weapons": {
+            "level": 1,
+            "preferred": false
+        },
+        "Craft Spec": {
+            "level": 1,
+            "preferred": false
+        },
+        "Language (Spec)": {
+            "level": 1,
+            "preferred": false
+        },
+        "Theft": {
+            "level": 1,
+            "preferred": false
+        },
+        "Short": {
+            "level": 1,
+            "preferred": false
+        },
+        "Craft Ship building": {
+            "level": 1,
+            "preferred": false
+        },
+        "Medicine": {
+            "level": 1,
+            "preferred": false
+        },
+        "Traditions": {
+            "level": 1,
+            "preferred": false
+        },
+        "Thrown": {
+            "level": 1,
+            "preferred": false
+        },
+        "Craft blacksmith": {
+            "level": 1,
+            "preferred": false
+        },
+        "Navigation": {
+            "level": 1,
+            "preferred": false
+        },
+        "Vigilance": {
+            "level": 1,
+            "preferred": false
+        },
+        "Dodge": {
+            "level": 1,
+            "preferred": false
+        },
+        "Ride": {
+            "level": 1,
+            "preferred": false
+        },
+        "Drive": {
+            "level": 1,
+            "preferred": false
+        },
+        "Sagas": {
+            "level": 1,
+            "preferred": false
+        }
+    },
+    "runes": {
+        "freya": {
+            "name": "gebo",
+            "aspect": "positive"
+        },
+        "heimdal": {
+            "name": "perth",
+            "aspect": "negative"
+        },
+        "tyr": {
+            "name": "ingvi",
+            "aspect": "positive"
+        }
+    },
+    "feats": {
+        "impetous charge": {
+            "level": 1
+        },
+        "by thor's arm": {
+            "level": 2
+        },
+        "stun": {
+            "level": 1
+        }
+    },
+    "equipment": {
+        "armour": {
+            "reinforced leathers": {
+                "damage": 4,
+                "encumberance": {
+                    "worn": 1,
+                    "carried": 1
+                },
+                "worn": true
+            },
+            "braces": {
+                "damage": 1,
+                "notes": "Come as a pair",
+                "worn": true
+            },
+            "grieves": {
+                "damage": 2,
+                "encumberance": {
+                    "worn": 1,
+                    "carried": 1
+                }
+            }
+        },
+        "weapons": {
+            "raven spear": {
+                "damage": 15,
+                "encumberance": 2,
+                "notes": "+3 pole arm skill, free parry, glows when odin's name is said"
+            }
+        },
+        "miscelanious": {
+            "collection of pebbles": {
+                "encumberance": 2,
+                "notes": "lipsum lorem"
+            }
+        }
+    },
+    "stats": {
+        "reaction": 11,
+        "hits": 30,
+        "furor": 4,
+        "silver": 3
+    }
+}
